@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name ="SiteUrl" value="http://the-internet.herokuapp.com/login" />
+    <Parameter name ="WebDriverTimeout" value="00:00:30" />
+    <Parameter name ="Browser" value="Chrome" />
+    <Parameter name ="ValidUsername" value="tomsmith" />
+    <Parameter name ="ValidPassword" value="SuperSecretPassword!" />
+  </TestRunParameters>
+</RunSettings>
